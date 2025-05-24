@@ -48,6 +48,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/akrgupta23/akrgupta23/output/pacman-contribution-graph.svg">
 </picture>
 
+<img src="https://pacman.abozanona.me?username=akrgupta23" />
+
 ###
 
 <div align="center">
